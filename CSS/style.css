@@ -152,6 +152,24 @@ p {
     color: #fff;
 }
 
+#home-cover,
+home-heading,
+home-btn {
+    animation-duration: .5s;
+}
+
+#home-cover {
+    animation-delay: .1s;
+}
+
+#home-heading {
+    animation-delay: .5s;
+}
+
+#home-btn {
+    animation-delay: 1s;
+}
+
 
 
 /* ==========================================================
